@@ -68,7 +68,7 @@ Create database
 
 Clone the repository
 
-git clone https://github.com/your-username/2-tier-ansible.git
+git clone https://github.com/Sharayu1707/2-tier-ansible.git
 
 cd 2-tier-ansible
 
